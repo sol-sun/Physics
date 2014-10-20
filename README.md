@@ -14,5 +14,4 @@ print "Hello, Physics!";
 ```
 
 
-![相対論の基礎-和田純夫]
-[相対論の基礎-和田純夫](http://ecx.images-amazon.com/images/I/51ZqmUF%2BU0L.jpg =100x20)
+![相対論の基礎-和田純夫](http://ecx.images-amazon.com/images/I/51ZqmUF%2BU0L.jpg =100x20)
