@@ -35,11 +35,11 @@
 検索で直接こられた方のためにGitについて一文で説明しますと，  
 <strong>"ファイルを管理するシステムのことで，更新履歴が残るためバックアップを取る必要がないというメリットがある大変素晴らしいシステム"</strong>  
 のことです．大勢の人でソフトウェアを開発するとき，「だれ」が「ファイル」を「どうしたのか」が可視化できるので，大変便利なシステムです．それをインターネットに公開して，見知らぬ人に意見をもらったり，便利なプログラムコードをダウンロードして利用したりできるのが，この<strong>"GitHub"</strong>です．詳しくは以下のサイトがわかりやすいと思います．  
-[サルでもわかるGit入門][GitとGitHubは何が違うの?]  
+[サルでもわかるGit入門]   
+[GitとGitHubは何が違うの?]  
 
 
-
-[サルでもわかるGit入門]: http://www.backlog.jp/git-guide/intro/intro1_1.html
+[サルでもわかるGit入門]: http://www.backlog.jp/git-guide/intro/intro1_1.html  
 [GitとGitHubは何が違うの?]: http://blog.sixapart.jp/2014-03/mttips-02-what-is-git.html
 
 
