@@ -2,7 +2,7 @@ Physics
 =======
 
 
-```perl : test.pl
+```perl :test.pl
 #!/usr/bin/env perl
 use strict;
 use warnings;
